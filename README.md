@@ -9,9 +9,8 @@ create your config file called config.json
 content: 
 
 {
-   masterId: admin user id, (int)
-   
-   token: 'your discord bot token' (string)
+masterId: admin user id, (int)
+token: 'your discord bot token' (string)
 }
 
 To start the bot just run:
@@ -36,6 +35,5 @@ https://discordapp.com/developers/applications
 
 DiscordJS Library i used:
 https://discord.js.org/
-
 
 I plan to create more methods and commands later.
