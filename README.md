@@ -9,7 +9,8 @@ create your config file called config.json
 content: 
 
 {
-masterId: admin user id, (int)
+   masterId: admin user id, (int)
+   
    token: 'your discord bot token' (string)
 }
 
