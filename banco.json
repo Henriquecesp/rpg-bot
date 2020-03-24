@@ -1,0 +1,18 @@
+{
+  "691765908737228831": [
+    {
+      "id": "269177339936505857",
+      "nick": "Henrique",
+      "role": "Ferreiro",
+      "life": 100,
+      "money": 50,
+      "progress": {
+        "xp": 0,
+        "level": 2,
+        "levelxp": 10
+      },
+      "avatar": "https://cdn.discordapp.com/avatars/269177339936505857/ebdf3e824ee4f3e014145bb2b5e15115.webp",
+      "quote": "O melhor ferreiro"
+    }
+  ]
+}
