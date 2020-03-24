@@ -19,9 +19,13 @@ nodemon start
 
 Commands:
 !ciar [nick] [role] = create new char on database
+
 !char = shows your character
+
 !editar [nick] = edits your nickname
+
 !apagar = delete your character
+
 !quote ...text = create a quote to your character
 
 How to get your token, create a bot and add to a serve:
