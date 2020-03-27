@@ -1,18 +1,50 @@
 {
   "691765908737228831": [
     {
-      "id": "",
-      "nick": "Henrique",
-      "role": "Ferreiro",
+      "id": "269177339936505857",
+      "nick": "HENRIQUE",
+      "race": "Human",
       "life": 100,
-      "money": 50,
+      "gold": 50,
+      "progress": {
+        "xp": 4,
+        "level": 1
+      },
+      "avatar": "https://cdn.discordapp.com/avatars/269177339936505857/58cf74b3044e57876f9563bdad0b45ce.webp",
+      "inventory": [],
+      "backupInventory": []
+    }
+  ],
+  "534177451513872405": [
+    {
+      "id": "249326406515949568",
+      "nick": "MENDIGO",
+      "race": "Queimado",
+      "life": 100,
+      "gold": 50,
       "progress": {
         "xp": 0,
-        "level": 2,
+        "level": 1,
         "levelxp": 10
       },
-      "avatar": "https://cdn.discordapp.com/avatars/269177339936505857/ebdf3e824ee4f3e014145bb2b5e15115.webp",
-      "quote": "O melhor ferreiro"
+      "avatar": "https://cdn.discordapp.com/avatars/249326406515949568/b8ff5a2948fd8144afb9be9fe9cd6647.webp",
+      "inventory": [],
+      "backupInventory": []
+    },
+    {
+      "id": "297823386728398858",
+      "nick": "-CREATE",
+      "race": " - delete",
+      "life": 100,
+      "gold": 50,
+      "progress": {
+        "xp": 0,
+        "level": 1,
+        "levelxp": 10
+      },
+      "avatar": "https://cdn.discordapp.com/avatars/297823386728398858/1228f127493983f02e620fc0fc76b9e6.webp",
+      "inventory": [],
+      "backupInventory": []
     }
   ]
 }
